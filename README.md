@@ -1,6 +1,7 @@
 # andan_real_estate
 
-https://github.com/k1rzh/andan_real_estate/assets/169588278/0fcf9fdc-a83e-4996-9954-6e7da9efcffc
+![pXx](https://github.com/k1rzh/andan_real_estate/assets/169588278/d0671812-b8dc-496c-b72e-370f88ffabbf)
+
 
 Наш проект представляет собой многофакторный анализ рынка недвижимости в Москве с целью построения модели, призванной предсказывать цены на квартиры в зависимости от определенных критериев.  
 
