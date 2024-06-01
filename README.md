@@ -1,5 +1,5 @@
 # andan_real_estate
-<div style="padding-top:57.143%;position:relative;"><iframe src="https://gifer.com/embed/pXx" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+![gif](https://i.gifer.com/pXx.gif)
 Наш проект представляет собой многофакторный анализ рынка недвижимости в Москве с целью построения модели, призванной предсказывать цены на квартиры в зависимости от определенных критериев.  
 
 Для того, чтобы наш анализ был всеобъемлющим, мы спарсили данные о рынке недвижимости с сайта [cian.ru](https://www.cian.ru), заполучив информацию о 1371 квартире, находящейся в продаже на май 2024 года.  
